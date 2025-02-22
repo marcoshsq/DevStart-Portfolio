@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo criar uma página de apresentação pessoal utilizando **HTML** e **CSS**, aplicando os conceitos fundamentais de desenvolvimento web.  
 
-![Preview do Projeto](./assets/screenshot.png)  
+### [Link da Pagina do Projeto](https://dev-start-portfolio.vercel.app/)  
 
 ### 🛠️ Tecnologias Utilizadas  
 - **HTML5** – Estruturação do conteúdo  
